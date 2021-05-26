@@ -1,0 +1,1 @@
+A soma dos valoes  {{ $p1 }} + {{ $p2 }} é: {{ $p1 + $p2 }}
