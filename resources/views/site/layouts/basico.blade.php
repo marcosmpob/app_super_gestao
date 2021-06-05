@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
 </head>
+@include('site.layouts._partials.topo')
 
 <body>
     @yield('conteudo')
